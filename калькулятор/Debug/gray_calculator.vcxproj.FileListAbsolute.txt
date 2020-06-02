@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\gray_calculator\Debug\gray_calculator.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\gray_calculator\Debug\graycalculator.MyForm.resources
+C:\Users\User\source\repos\gray_calculator\Debug\gray_calculator.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\gray_calculator\Debug\gray_calculator.exe
+C:\Users\User\source\repos\gray_calculator\Debug\gray_calculator.pdb
+C:\Users\dexp\Desktop\лабы\калькулятор\Debug\gray_calculator.vcxprojAssemblyReference.cache
+C:\Users\dexp\Desktop\лабы\калькулятор\Debug\graycalculator.MyForm.resources
+C:\Users\dexp\Desktop\лабы\калькулятор\Debug\gray_calculator.vcxproj.GenerateResource.cache
+C:\Users\dexp\Desktop\лабы\калькулятор\Debug\gray_calculator.exe
+C:\Users\dexp\Desktop\лабы\калькулятор\Debug\gray_calculator.pdb
